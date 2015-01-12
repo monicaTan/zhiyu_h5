@@ -107,6 +107,7 @@ img{width: 100%;}
 	body{font-size: 1.4rem;}
 	.banner-top{padding-bottom: 20px;}
 	.female-icon{width: 15px; height: 15px;}
+	.male-icon{width: 15px; height: 15px;}
 	.heart-icon{width: 19px;height: 17px;}
 	.praise-heart{margin-top: -18px; border-radius: 15px 0 0 15px; height: 35px; line-height: 35px; font-size: 15px;}
 	.user-name a{ font-size: 19px;}
@@ -156,7 +157,7 @@ img{width: 100%;}
 	.friends-list .text-btn a{ height: 88px; line-height: 88px;}
 
 	.share-list .h2{ font-size: 11px;margin-top: 10px;}
-	.notice-txt span{font-size: 11px; padding-top: 10px;}
+	.notice-txt span{font-size: 11px; padding-top: 10px;white-space: nowrap;}
 
 	.guide-list{ padding: 9px 8px; margin-bottom: 66px;}
 	.guide-link{ height: 41px; line-height: 41px; font-size: 18px;}
